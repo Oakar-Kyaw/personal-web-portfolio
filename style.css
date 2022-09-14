@@ -11,6 +11,7 @@ body {
    
     background-image: url('image/starfall-gif-29.gif');
     box-sizing:border-box;
+    font-family:Playfair Display;
     
 }
 
@@ -163,9 +164,9 @@ a{
 }
 .flip {
     width:500px;
-    height:50px;
+    height:70px;
     position: absolute;
-    font-size: 40px;
+    font-size: 38px;
     margin-top:180px;
     margin-left:40px;
     
@@ -240,7 +241,7 @@ i {
 
 @keyframes animated-text {
     from {width:0;}
-    to {width:410px}
+    to {width:420px}
 }
 
 @keyframes animated-cursor {
